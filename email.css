@@ -1,0 +1,21 @@
+body {
+    padding: 20px;
+}
+
+input {
+    margin: 5px;;
+}
+
+div {
+    margin: 5px;
+}
+
+/* Classes */
+
+.stretch {
+    width: 100%;
+}
+
+.fixedHeight {
+
+}
